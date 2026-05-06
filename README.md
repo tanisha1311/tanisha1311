@@ -1,32 +1,17 @@
+
 # Hello, I'm Tanisha! 👋
+I'm a Data Analyst who gets genuinely excited about visualization — how the right chart, the right color, the right layout can make someone understand something in seconds that would take paragraphs to explain. Data is only useful if people can actually read it, and that's the part I care about most.
+I came from data engineering — three years at LTIMindtree working with large-scale pipelines across 15 countries — so I also understand what's happening under the hood before the pretty charts show up. That combination is what I bring to analytics work.
+Currently finishing my Master's in Information Management at UIUC and looking for Data Analyst or BI roles.
 
-Thanks for stopping by! Here's a little bit about myself...
+# What I work with
+SQL · Python · Tableau · Power BI · Snowflake · Microsoft Fabric · dbt · AWS · Azure
 
-### 💡 My Data Story
+# What I'm up to
+- Building fundraising analytics at the University of Illinois Foundation
+- Consulting on a healthcare data project with BIG at UIUC
+- Finishing my MS in Information Management at UIUC
 
-*  Passionate about leveraging data to solve complex problems and transform raw insights into impactful solutions.
-*  Skilled in building and optimizing data pipelines, designing efficient data models, and improving data retrieval processes.
-*  Open to collaborate on challenging data engineering projects and connect with fellow data enthusiasts.
-
-### ⚙️ Past Experience
-
-*   Led data migration and reporting initiatives for global teams, ensuring seamless integration.
-*   Designed custom data models, resulting in improvements in data migration.
-*   Developed and maintained ETL pipelines to streamline data processing.
-*   Executed detailed SQL queries to optimize data retrieval, supporting critical reporting needs.
-
-### 📚 Currently Exploring
-
-*  Deeply diving into Modern Data Stacks (dbt, Airbyte, Databricks)
-*  Expanding cloud expertise in Azure and innovating in AWS and GCP.
-*  Investigating approaches to building scalable and efficient data systems.
-
-### ✉️ Get In Touch!
-
-Feel free to reach out to connect or discuss anything data-related!
-
-*   📧 tsingh12@illinois.edu
-*   💼 [LinkedIn](linkedin.com/tanisha-singh)
-
-
-Happy to chat! 😊
+# Let's connect
+📧 tsingh12@illinois.edu
+💼 linkedin.com/in/singh-tanisha
